@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppCafeteria</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="enter_your_name">Ingrese su nombre</string>
+    <string name="order">Orden</string>
+    <string name="quantity">Cantidad</string>
+    <string name="whipped_cream">Crema Batida</string>
+</resources>
